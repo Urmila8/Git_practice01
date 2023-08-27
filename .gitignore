@@ -5,6 +5,8 @@ __pycache__/
 
 # C extensions
 *.so
+git_01/
+myenv/
 
 # Distribution / packaging
 .Python
